@@ -1,11 +1,9 @@
-<div align="center">
-  <img height="200" src="" />
-</div>
+
 <br>
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/kiruthika-prabaharan-11a887371 /" target="_blank">
+  <a href="https://www.linkedin.com/in/kiruthika-prabaharan-11a887371?/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
