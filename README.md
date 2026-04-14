@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
+  <img height="200" src="" />
 </div>
 <br>
 
